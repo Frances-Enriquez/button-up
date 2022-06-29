@@ -1,0 +1,36 @@
+.wtf{
+    border:100px;
+    margin:75px;
+}
+#search, #plus, #create-account{
+    margin: 10px;
+}
+#search{
+    border-radius: 300px;
+    border-color: palevioletred;
+    border-width: 2px;
+    width: 150px;
+    background-color: antiquewhite;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+#plus{
+    border-radius: 125px;
+    width: 35px;
+    height: 30px;
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: aliceblue;
+    border-color: whitesmoke;
+}
+#create-account{
+    border-width: 1px;
+    width: 200px;
+    height: 30px;
+    background-color: lightskyblue;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+    box-shadow: 3px 2px black;
